@@ -3,7 +3,7 @@
 ### This is a simple illustration website to explain how smooth scrolling works and looks like.
 
 
-Copy this script tag in html page to use:
+Copy this script tag and paste in html page to use:
 
 ```js
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"
