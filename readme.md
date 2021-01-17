@@ -11,7 +11,7 @@ crossorigin="anonymous"></script>*
 
 ##### [jQuery link to other versions](https://code.jquery.com/)
 
-### jQuery block of code:
+### jQuery block of code: :point_down:
 
 ```javascript
 {
