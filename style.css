@@ -44,7 +44,8 @@ a {
    font-size: 17px;
    color: #333;
    padding: 20px 30px;
-   transition: all .4s ease-in-out;
+   transition: all .5s ease-in-out;
+   margin-right: 20px;
 }
 
 .btn-prev {
